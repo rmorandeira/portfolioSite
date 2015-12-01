@@ -396,6 +396,15 @@ CONTENT
   line-height:70px;
 }
 
+.content .text-intro h2{
+  font-size:23px;
+  width:40%;
+  text-transform:uppercase;
+  color:#000000;
+  font-weight:900;
+  line-height:70px;
+}
+
 .content .text-intro p{
   font-size:13px;
   color:#8d8d8d;
@@ -554,6 +563,18 @@ li.grid-item.foto{
 }
 
 .grid-hover h1{
+  font-size:23px;
+  bottom:80px;
+  left:40px;
+  position:absolute;
+  text-transform:uppercase;
+  color:#000000;
+  letter-spacing:1px;
+  font-weight:900;
+  line-height:50px;
+}
+
+.grid-hover h2{
   font-size:23px;
   bottom:80px;
   left:40px;
